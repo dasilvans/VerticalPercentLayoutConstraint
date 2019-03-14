@@ -17,7 +17,7 @@ If you need to have a vertical space ( between two views ) to be half of the siz
 
 You just need to create a vertical constraint between the two. Edit that constraint an change it to a VerticalPercentLayoutConstraint's subclass and a new property will appear on the Attribuites Inspector.
 
-![Example - Subclass](Assets/example.png)
+![Example - Subclass](Assets/subclass.png)
 
 ![Example - Attribuites](Assets/attribuites.png)
 
